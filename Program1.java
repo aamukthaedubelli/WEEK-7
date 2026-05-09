@@ -8,7 +8,7 @@ abstract class Animal {
  }
  class Tiger extends Animal{
      void sound(){
-         System.out.println("is roaring");
+         System.out.println("is ");
      }
  }
  class Program1 {
